@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my code base
+- 🌱 I’m currently learning many courses eg Data strucures, python and linux
+- 👯 I’m looking to collaborate on future projects you may have.
+- 🤔 I’m looking for help with mostly debuging and project ideas.
+- 💬 Ask me about anything realated to code, tech and software.
+- 📫 How to reach me: muthiecollins@gmail.com 
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I love to travel.                                           
 
 <!--
 **Collins-Muthie/Collins-Muthie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
